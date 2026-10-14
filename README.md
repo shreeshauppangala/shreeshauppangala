@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs**
 
-- 📫 How to reach me **shreeshauppangala@gmail.com**
+- 📫 How to reach me: **shreeshauppangala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
